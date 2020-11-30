@@ -3,4 +3,5 @@ export class Empresa {
   RazonSocial: string;
   FechaFundacion: Date;
   CantidadEmpleados: number;
+  
 }
